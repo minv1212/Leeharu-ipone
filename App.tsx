@@ -853,3 +853,4 @@ export default function IPhoneSimulator() {
     </div>
   );
 }
+export default IPhoneSimulator;
